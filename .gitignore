@@ -1,0 +1,8 @@
+sample.py
+sample2.py
+/docs/relationship.md
+/docs/sql_function.md
+/utilities/__pycache__/
+/utilities/generate_embeddings/__pycache__/
+/app
+

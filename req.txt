@@ -1,0 +1,9 @@
+langchain_openai
+langchain
+langchain_core
+langchain_community
+mysql-connector-python
+networkx
+langchain_chroma
+langchain_text_splitter
+
