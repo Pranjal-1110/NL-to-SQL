@@ -65,7 +65,7 @@ A sophisticated Retrieval-Augmented Generation (RAG) system that converts natura
 
 1. **Clone the repository**
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/<your_username>/NL-to-SQL.git
 cd rag-pipeline
 ```
 
